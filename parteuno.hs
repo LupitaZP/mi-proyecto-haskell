@@ -1,3 +1,5 @@
+import Partedos --importa partedos.hs
+
 -- CAPITULO UNO
 
 -- 1. Give another posible calculation for the result of double	(double	2).
@@ -215,5 +217,6 @@ R1: porque para comparar funciones se requiere comprobar que siempre devuelven e
 R2: Es viable cuando el dominio es finito y acotado. 
 
 
-
+main :: IO ()
+main = do
 
